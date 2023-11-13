@@ -1,3 +1,10 @@
+# Alexandre Augusto Guimaraes Taveira
+# 202102167442
+# Ciencia da Computacao
+# Recreio
+# Ronaldo Candido
+
+
 # Semana 9:
 
 ## 1. B
